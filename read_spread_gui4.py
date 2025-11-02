@@ -385,9 +385,7 @@ def describe():
     global active_row
     clipboard = list()
 
-    # Connecting to SAP
-    sap = win32com.client.GetObject("SAPGUI").GetScriptingEngine
-    session = sap.Children(0).Children(0)  # Access first open session
+    # Connecting to ERP - part removed
 
     #Main loop - part removed due to confidentiality
     
@@ -445,4 +443,5 @@ root.bind("<Return>",lambda event: enter())
 
 
 root.mainloop()
+
 
