@@ -25,7 +25,7 @@ If a detail is among:
 the program will code the detail as 0 and later try to describe all the items on the account:
 
 If there are inconsistencies in the numbers of customers, it will warn you about this at the beginning:
-<img width="671" height="194" alt="image" src="https://github.com/user-attachments/assets/87b20b93-36c2-455d-950c-6e64a415dddd" />
+<img width="671" height="146" alt="image" src="https://github.com/user-attachments/assets/b2ad5180-c60c-4cf1-89b3-be0394c74d49" />
 
 <img width="1090" height="267" alt="image" src="https://github.com/user-attachments/assets/299bf297-557c-41a3-81ea-2ddffa9a38ed" />
 
