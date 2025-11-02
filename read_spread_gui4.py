@@ -151,7 +151,7 @@ def connecting(numbers):
         y += 1
 
 #Reading the data from excel macro
-excel = pd.read_excel(r"C:\Users\azarzyck\Desktop\BOE_Posting_MA20_new_procedure_Beta.xlsm")
+excel = pd.read_excel(PATH_TO_EXCEL_FILE)
 clients = excel["Unnamed: 1"][3:].to_list()
 nlcn = excel["Unnamed: 3"][3:].to_list()
 names = excel["Unnamed: 2"][3:].to_list()
@@ -398,8 +398,8 @@ def describe():
         session.findById("wnd[0]").sendVKey(0)
         # Filling in the customer number and company code
         session.findById("wnd[0]/usr/ctxtDD_KUNNR-LOW").Text = key
-        session.findById("wnd[0]/usr/ctxtDD_BUKRS-LOW").Text = "MA20"
-        session.findById("wnd[0]/usr/ctxtPA_VARI").Text = "WEKSLE ADAM"
+        session.findById("wnd[0]/usr/ctxtDD_BUKRS-LOW").Text = COMPANY_CODE
+        session.findById("wnd[0]/usr/ctxtPA_VARI").Text = LAYOUT_NAME
         # Ensuring that normal items are checked
         session.findById("wnd[0]/usr/chkX_NORM").selected = True
         # Executing
@@ -727,5 +727,6 @@ def enter():
             threading.Thread(target=describe).start()
 
 root.bind("<Return>",lambda event: enter())
+
 
 root.mainloop()
