@@ -5,7 +5,8 @@ How the program reads data from excel
 At the beginning it asks about the saving date, it proposes the current one:
 
 <img width="1048" height="309" alt="image" src="https://github.com/user-attachments/assets/0b402d83-8037-4bac-8b39-01316567fdc8" />
----
+>
+
 It uses the columns highlighted below:
 <img width="1766" height="305" alt="image" src="https://github.com/user-attachments/assets/a536256a-a156-4462-8c09-eb5d81fefe04" />
 
