@@ -13,7 +13,7 @@ The program skips the lines with ci-joint and avance, speaking precisely all the
 
 <img width="740" height="39" alt="image" src="https://github.com/user-attachments/assets/9d687a2a-9f3a-4c95-aafc-0f7d05e3bcaa" />
 
-<img width="1004" height="134" alt="image" src="https://github.com/user-attachments/assets/605d8296-5c7d-40ee-a3eb-c81e2f9ab3be" />
+<img width="1004" height="65" alt="image" src="https://github.com/user-attachments/assets/8afd5d1a-1927-4b4f-ad2d-fc5c093fa5c2" />
 
 <img width="1090" height="371" alt="image" src="https://github.com/user-attachments/assets/50f2b2e2-2248-44c1-8292-21eff334d692" />
 
@@ -22,11 +22,11 @@ If a detail is among:
 
 the program will code the detail as 0 and later try to describe all the items on the account:
 
-<img width="1010" height="141" alt="image" src="https://github.com/user-attachments/assets/090ee6d0-d55c-4dc3-8090-19271b12a425" />
+<img width="1010" height="60" alt="image" src="https://github.com/user-attachments/assets/3ba0278d-ecc6-4375-957a-3b471a26bfc0" />
 <img width="1090" height="162" alt="image" src="https://github.com/user-attachments/assets/c40bcc1f-c1ca-4e2a-b75b-d9856e5b26fb" />
 
 If there are inconsistencies in the numbers of customers, it will warn you about this at the beginning:
-<img width="671" height="121" alt="image" src="https://github.com/user-attachments/assets/f18bf6b3-d1a4-48f3-a625-5b4cda860c74" />
+<img width="671" height="59" alt="image" src="https://github.com/user-attachments/assets/a5cc9971-2cf3-4fd1-a794-1e8ce21fbaf0" />
 <img width="1090" height="267" alt="image" src="https://github.com/user-attachments/assets/f86ceb5b-4e33-438f-945c-1fba284c005b" />
 
 The program treats everything that isn’t a number in detail column just as a separation of items’ numbers:
