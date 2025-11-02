@@ -1,6 +1,6 @@
-This is just an example of automation and it neither includes any company-specific data nor is a property of any company. It's here just for presentational purposes.
+This is just an example of automation and it neither includes any company-specific data nor is a property of any company. It's here just for presentational purposes.The part that ineracts with the ERP has been removed due to the confidentiality.
 
-There is version with graphical user interface as well as terminal-olnly version. The aim of the program is to read and process data from an excel file and use them to change descriptions and reason codes of the items in SAP FBL5N transaction.
+There is version with graphical user interface as well as terminal-olnly version. The aim of the program is to read and process data from an excel file and use them to change descriptions of the items in the ERP system.
 
 How the program reads data from excel
 
