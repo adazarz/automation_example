@@ -21,6 +21,7 @@ The program skips the lines with ci-joint and avance, speaking precisely all the
 
 <img width="1090" height="371" alt="image" src="https://github.com/user-attachments/assets/50f2b2e2-2248-44c1-8292-21eff334d692" />
 >
+
 If a detail is among:
 <img width="638" height="34" alt="image" src="https://github.com/user-attachments/assets/5a5ad957-8317-4099-bc71-1b850447a054" />
 
