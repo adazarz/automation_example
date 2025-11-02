@@ -1,1 +1,1 @@
-
+The program is an example of automation. It takes the data from excel file, processes them and uses to change documents' texts in the ERP system. It takes from excel file customer numbers, bill of exchange numbers, their sums and invoice numbers that are planned to be paid with these bills of exchange. It also checks if there are no inconsistencies the in customer numbers.
