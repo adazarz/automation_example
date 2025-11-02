@@ -52,7 +52,8 @@ The program also understands the details written in such a way:
 <img width="1090" height="154" alt="image" src="https://github.com/user-attachments/assets/e4d572ca-d9cb-41c9-8700-eb60f955a309" />
 
 If there are big differences in invoice numbers lengths, it will elaborate the shorter endings in order to avoid filtering out unnecessary invoices:
-<img width="1090" height="203" alt="image" src="https://github.com/user-attachments/assets/1cfaca04-a9e1-4184-bbdd-def2f448ab63" />
+<img width="1090" height="139" alt="image" src="https://github.com/user-attachments/assets/3031e609-ef4a-44ee-8347-ce535a01171b" />
+
 <img width="779" height="128" alt="image" src="https://github.com/user-attachments/assets/8fba4a9a-7520-4b08-9e35-c240ab53ceb9" />
 
 The program uses clipboard to paste the invoice numbers into filtering window in SAP fbl5n, so be ware of using copy/paste during the program work.
