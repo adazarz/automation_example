@@ -1,4 +1,4 @@
-The aim of the program is to automate describing customer items. It takes the data from excel file, processes them and uses to change documents' texts and reason codes in the ERP system. It takes from excel file customer numbers, bill of exchange numbers, their sums and invoice numbers that are planned for payment with these bills of exchange. It also checks if there are no inconsistencies in the customer numbers.
+This is an example of Python automation. The aim of the program is to automate describing customer items. It takes the data from excel file, processes them and uses to change documents' texts and reason codes in the ERP system. It takes from excel file customer numbers, bill of exchange numbers, their sums and invoice numbers that are planned for payment with these bills of exchange. It also checks if there are no inconsistencies in the customer numbers. There a version with graphical user interface, as well as terminal only version.
 
 The part of the script that deals with the ERP system has been removed due to its confidentiality.
 
