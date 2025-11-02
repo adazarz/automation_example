@@ -30,23 +30,23 @@ If there are inconsistencies in the numbers of customers, it will warn you about
 <img width="1090" height="267" alt="image" src="https://github.com/user-attachments/assets/f86ceb5b-4e33-438f-945c-1fba284c005b" />
 
 The program treats everything that isn’t a number in detail column just as a separation of items’ numbers:
-<img width="501" height="148" alt="image" src="https://github.com/user-attachments/assets/403c44a1-e1cd-4095-8d7e-5887e8e8f2c3" />
+<img width="501" height="68" alt="image" src="https://github.com/user-attachments/assets/1fbe6fd0-9945-4372-9b86-c21571b814a4" />
 
 <img width="1090" height="141" alt="image" src="https://github.com/user-attachments/assets/6c67a675-537b-488c-88ea-21ce176d2b4c" />
 
 For BOEs with the same detail, bank abbreviation and fairly consecutive numbers, it concatenates the references like so:
-<img width="1148" height="97" alt="image" src="https://github.com/user-attachments/assets/5cdf967c-6602-4cb9-90cd-36ebe1376e44" />
+<img width="1148" height="42" alt="image" src="https://github.com/user-attachments/assets/e2d14dc1-fdc5-4f0d-a32d-2593c69401db" />
 <img width="940" height="185" alt="image" src="https://github.com/user-attachments/assets/b4b000ba-7226-49dd-814d-15829c26030c" />
 
 If the bank abbreviations are different, it joins them like so:
-<img width="1090" height="113" alt="image" src="https://github.com/user-attachments/assets/53c047c7-d7d5-4cf0-a560-596e32cbc4a3" />
+<img width="1090" height="53" alt="image" src="https://github.com/user-attachments/assets/f62bc064-234d-46ac-9073-e4ebb68f0017" />
 <img width="1065" height="142" alt="image" src="https://github.com/user-attachments/assets/475b259f-8128-441e-9c1f-a6a0cf348b4a" />
 
 If the number of BOEs with the same detail is large enough (more than four) and their reference numbers are precisely consecutive, it joins them with a dash:
 <img width="1090" height="122" alt="image" src="https://github.com/user-attachments/assets/bf61d9d7-aad9-42d8-b00c-5fc7a226f493" />
 
 The program also understands the details written in such a way:
-<img width="1090" height="292" alt="image" src="https://github.com/user-attachments/assets/46503d4a-f7df-435a-b58f-3ee8f6bf4883" />
+<img width="1090" height="216" alt="image" src="https://github.com/user-attachments/assets/a624375b-597a-4dfc-bf15-4f074aeb9b14" />
 <img width="1090" height="154" alt="image" src="https://github.com/user-attachments/assets/dba8f40d-a297-49c4-9f45-d641a491ec27" />
 
 If there are big differences in invoice numbers lengths, it will elaborate the shorter endings in order to avoid filtering out unnecessary invoices:
