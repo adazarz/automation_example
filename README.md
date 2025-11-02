@@ -10,7 +10,7 @@ At the beginning it asks about the saving date, it proposes the current one:
 >
 
 It uses the columns highlighted below:
-<img width="1766" height="305" alt="image" src="https://github.com/user-attachments/assets/a536256a-a156-4462-8c09-eb5d81fefe04" />
+<img width="1129" height="184" alt="image" src="https://github.com/user-attachments/assets/fe992366-2964-4121-9dd1-3b8ff1fe91e9" />
 
 The program skips the lines with ci-joint and avance, speaking precisely all the lines where the detail is among (lower or upper case):
 <img width="740" height="39" alt="image" src="https://github.com/user-attachments/assets/0aee3d8c-58c3-4c99-a20a-0a878b8b8ca2" />
